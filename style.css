@@ -18,7 +18,7 @@ nav a {
 
 .hero {
     height: 400px;
-    background: url('cover.jpg');
+    background: url('../images/cover.jpg');
     background-size: cover;
     color: white;
     text-align: center;
@@ -29,6 +29,7 @@ nav a {
     display: flex;
     justify-content: center;
     gap: 20px;
+    padding: 20px;
 }
 
 .gallery img {
